@@ -1,1 +1,1 @@
-# Shell-CheatSheet
+# Terminal-CheatSheet
